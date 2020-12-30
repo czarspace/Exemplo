@@ -1,2 +1,3 @@
-print("Ol UFMG!")
-print("Oá Czar!")
+print("Digite um numero!")
+s = input()
+print("voce digitou " + s)
