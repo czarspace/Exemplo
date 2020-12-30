@@ -1,3 +1,3 @@
-print("Digite um numero!")
-s = input()
-print("voce digitou " + s)
+print("Hello World!")
+a = 32.5
+print(a)
