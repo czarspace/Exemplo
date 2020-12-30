@@ -1,2 +1,2 @@
-print("Hello UFMG!")
-print("Hello Czar!")
+print("Olá UFMG!")
+print("Olá Czar!")
